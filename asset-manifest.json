@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/linkedin-clone/static/css/main.a0ebbee9.css",
-    "main.js": "/linkedin-clone/static/js/main.1d6adaf7.js",
+    "main.js": "/linkedin-clone/static/js/main.185645c9.js",
     "static/media/LinkedIn_Logo.png": "/linkedin-clone/static/media/LinkedIn_Logo.c7efcf57822314d7f9d8.png",
     "static/media/image-1.jpg": "/linkedin-clone/static/media/image-1.2da1e2710bf0961cbe01.jpg",
     "static/media/linkedin_signIn.svg": "/linkedin-clone/static/media/linkedin_signIn.06d17a18dc0cc22e80ebd013b3624f47.svg",
@@ -9,6 +9,7 @@
     "static/media/claps.svg": "/linkedin-clone/static/media/claps.12769096824b21e5eec3d542146651be.svg",
     "static/media/google_log.svg": "/linkedin-clone/static/media/google_log.66ae25beb1eb0655ac594978ee31ddb2.svg",
     "static/media/likes.svg": "/linkedin-clone/static/media/likes.e4b28aa2cdf39724c1deec3f946b29e1.svg",
+    "static/media/close-tag.svg": "/linkedin-clone/static/media/close-tag.8a2ebca5000bc1c52dfc3a4612e9b2a0.svg",
     "index.html": "/linkedin-clone/index.html",
     "static/media/home_logo.svg": "/linkedin-clone/static/media/home_logo.ada11cda991129bc91b79d2c7cee1066.svg",
     "static/media/navlist_home.svg": "/linkedin-clone/static/media/navlist_home.66256e78416707d82d50254de3d52ee5.svg",
@@ -16,10 +17,10 @@
     "static/media/bookmark.svg": "/linkedin-clone/static/media/bookmark.9e3ff0d07f0d15a830f37c8e793544c1.svg",
     "static/media/linkedin_background.svg": "/linkedin-clone/static/media/linkedin_background.b8ef79b2b062a87fc8a896617dc8b482.svg",
     "main.a0ebbee9.css.map": "/linkedin-clone/static/css/main.a0ebbee9.css.map",
-    "main.1d6adaf7.js.map": "/linkedin-clone/static/js/main.1d6adaf7.js.map"
+    "main.185645c9.js.map": "/linkedin-clone/static/js/main.185645c9.js.map"
   },
   "entrypoints": [
     "static/css/main.a0ebbee9.css",
-    "static/js/main.1d6adaf7.js"
+    "static/js/main.185645c9.js"
   ]
 }
